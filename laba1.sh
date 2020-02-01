@@ -1,3 +1,4 @@
+#!/bin/bash
 cd $HOME
 ls
 mkdir Random_Dir
